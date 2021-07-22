@@ -1,1 +1,1 @@
-This is a criminal database management system mad with the help of html, php, mysql.
+This is a criminal database management system made with the help of html, php, mysql.
